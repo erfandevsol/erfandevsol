@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="assets/image.jpg"  />
+  <img height="200" width="100%" src="assets/image.jpg"  />
 </div>
 
 ###
 
-<h1 align="center">Hi there 👋, I'm Erfan Jebely</h1>
+<h1 align="left">Hi there 👋, I'm Erfan Jebely</h1>
 
 ###
 
@@ -17,9 +17,9 @@ I'm a curious mix of **code & creativity** — a front-end developer who loves t
 > Life's a journey — mine just happens to be in dark mode 🚂🌌
 
 
-<p align="center" style="font-size:25px; margin-bottom:20px">Languages and Frameworks</p>
+<h3 align="left" style="font-size:25px; margin-bottom:20px">Languages and Frameworks</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" style="margin: 3px;">
     <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   </a>
@@ -40,7 +40,7 @@ I'm a curious mix of **code & creativity** — a front-end developer who loves t
   </a>
 </div>
 
-<div align="center">
+<div align="left">
 <a href="https://getbootstrap.com/" target="_blank" style="margin: 3px;">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
   </a>
@@ -72,9 +72,9 @@ I'm a curious mix of **code & creativity** — a front-end developer who loves t
 
 ###
 
-<p align="center" style="font-size:25px; margin-bottom:20px">Stay in touch</p>
+<h3 align="left" style="font-size:25px; margin-bottom:20px">Stay in touch</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/erfan-jebely-79a9a52a5/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
