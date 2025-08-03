@@ -17,7 +17,7 @@ I'm a curious mix of **code & creativity** — a front-end developer who loves t
 > Life's a journey — mine just happens to be in dark mode 🚂🌌
 
 
-<h3 align="left" style="font-size:25px; margin-bottom:20px">Languages and Frameworks</h3>
+<h3 align="left" style="font-size:25px; margin-bottom:20px">👨‍💻 Languages and Frameworks</h3>
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" style="margin: 3px;">
@@ -50,11 +50,11 @@ I'm a curious mix of **code & creativity** — a front-end developer who loves t
   <a href="https://vuejs.org/" target="_blank" style="margin: 3px;">
     <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo" />
   </a>
-  <a href="https://angular.io/" target="_blank" style="margin: 3px;">
-    <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
-  </a>
   <a href="https://reactjs.org/" target="_blank" style="margin: 3px;">
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  </a>
+  <a href="https://angular.io/" target="_blank" style="margin: 3px;">
+    <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
   </a>
   <a href="https://nextjs.org/" target="_blank" style="margin: 3px;">
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
@@ -72,7 +72,7 @@ I'm a curious mix of **code & creativity** — a front-end developer who loves t
 
 ###
 
-<h3 align="left" style="font-size:25px; margin-bottom:20px">Stay in touch</h3>
+<h3 align="left" style="font-size:25px; margin-bottom:20px">🤙 Stay in touch</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/erfan-jebely-79a9a52a5/" target="_blank">
