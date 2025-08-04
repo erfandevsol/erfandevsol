@@ -2,7 +2,7 @@
 
 ###
 
-I'm a curious mix of **code & creativity** — a front-end developer who loves turning ideas into elegant user experiences. Whether it's crafting pixel-perfect components with React, building smart workflows with Python, or organizing gamified meetups for meaningful connections, I'm all about creating things that *feel* right.
+I'm a curious mix of **code & creativity** — a front-end developer who loves turning ideas into elegant user experiences. Whether it's crafting perfect components with React, building smart workflows with Python. I'm all about creating things that *feel* right.
 
 🔧 Currently building: personal projects, side quests, and maybe a better version of myself.
 
