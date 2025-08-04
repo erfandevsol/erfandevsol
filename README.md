@@ -2,12 +2,14 @@
 
 ###
 
-A front-end developer with a soft spot for clean code, smooth UX, and the occasional console scream. I'm all about creating things that *feel* right.
+A front-end developer with a soft spot for clean code, smooth UX, and the occasional console scream. I'm all about creating things that **feel** right.
 I build things with **code & creativity**, and whatever tech catches my curiosity this week.
 
 🔧 Currently building: personal projects, side quests, and maybe a better version of myself.
-🐞 Bugs don’t scare me — I debug with coffee, patience, and way too many console logs.  
-🚀 Always exploring new tools, not because I have to, but because I *want* to.
+
+🐞 Bugs don’t scare me — I debug with coffee, patience, and way too many console logs.
+
+🚀 Always exploring new tools, not because I have to, but because I **want** to.
 
 > Life's a journey — mine just happens to be in dark mode 🚂🌌
 
