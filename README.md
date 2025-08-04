@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" width="100%" src="assets/banner.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hi there 👋, I'm Erfan Jebely</h1>
 
 ###
