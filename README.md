@@ -1,12 +1,13 @@
-<h1 align="left">Hi there 👋, I'm Erfan</h1>
+<h1 align="left">👨‍💻 Hey, I'm Erfan</h1>
 
 ###
 
-I'm a curious mix of **code & creativity** — a front-end developer who loves turning ideas into elegant user experiences. Whether it's crafting perfect components with React, building smart workflows with Python. I'm all about creating things that *feel* right.
+A front-end developer with a soft spot for clean code, smooth UX, and the occasional console scream. I'm all about creating things that *feel* right.
+I build things with **code & creativity**, and whatever tech catches my curiosity this week.
 
 🔧 Currently building: personal projects, side quests, and maybe a better version of myself.
-
-🎯 Always learning. Always shipping. Always with a notebook nearby.
+🐞 Bugs don’t scare me — I debug with coffee, patience, and way too many console logs.  
+🚀 Always exploring new tools, not because I have to, but because I *want* to.
 
 > Life's a journey — mine just happens to be in dark mode 🚂🌌
 
