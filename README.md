@@ -4,11 +4,11 @@ A front-end developer with a soft spot for clean code and smooth UX.
 I started coding in **June 2022**, and since then I've gathered a mix of experiences that shaped how I build.  
 I'm all about creating things that **feel** right.
 
-🔧 Currently building: personal projects, side quests, and maybe a better version of myself.
+🔧 Currently building: personal projects, side quests, and maybe a better version of myself.  
 
-🐞 Bugs don’t scare me — I debug with coffee, patience, and way too many console logs.
+🐞 Bugs don’t scare me — I debug with coffee, patience, and way too many console logs.  
 
-🚀 Always exploring new tools, not because I have to, but because I **want** to.
+🚀 Always exploring new tools, not because I have to, but because I **want** to.  
 
 > Life's a journey — mine just happens to be in dark mode 🚂🌌
 
