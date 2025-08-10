@@ -58,7 +58,7 @@ A front-end developer with a soft spot for clean code and smooth UX. I started c
   <a href="https://git-scm.com/" target="_blank" style="margin: 5px;">
     <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   </a>
-    <a href="https://github.com/" target="_blank" style="margin: 5px;">
+  <a href="https://github.com/" target="_blank" style="margin: 5px;">
     <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   </a>
   <a href="https://wordpress.org/" target="_blank" style="margin: 5px;">
