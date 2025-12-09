@@ -32,7 +32,7 @@ I'm all about creating things that **feel** right.
 
 ## 🤙 Stay in touch
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-jebely-79a9a52a5/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-jebely)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erfan_devsol)
 [![Telegram](https://img.shields.io/badge/telegram-%2300AEEF.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Erfan_Jebely)
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/erfandevsol)
