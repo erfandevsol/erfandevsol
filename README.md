@@ -18,8 +18,6 @@ I'm all about creating things that **feel** right.
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
@@ -28,7 +26,6 @@ I'm all about creating things that **feel** right.
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)
 
 ## 🤙 Stay in touch
 
